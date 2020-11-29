@@ -1,0 +1,48 @@
+.login{
+    display: block;
+padding: 30px;
+background-color: beige;
+background-color: lightblue;
+width: 270px;
+align-self: center;
+border-radius: 4px;
+
+}
+.box{
+    padding: 3px;
+    width: 220px;
+}
+#align-left{
+    text-align:justify;
+
+}
+.buttonsWrapper{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+.LoginBtnWrapper{
+    padding: 5px;
+    color: burlywood;
+    background-color: brown;
+
+}
+.btnWrapper{
+    padding: 2px;
+}
+.btnStyle{
+    width: 80px;
+    border-radius: 5px;
+    border-color: aliceblue;
+   
+}
+.ResetBtnWrapper{
+    padding: 5px;
+    color: white;
+    background-color: goldenrod;
+    padding-left: 10px;
+
+   
+
+}

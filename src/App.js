@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import InputRef from './InputRef'
+import Form from './Form'
 
 function App() {
   return (
     <div className="App">
-       <InputRef/>
+       <Form/>
     </div>
   );
 }
